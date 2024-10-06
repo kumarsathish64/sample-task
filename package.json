@@ -1,12 +1,11 @@
 {
-  "homepage": "https:/64sathish/github.io/deploy-github",
+  
   "name": "vite-project-task",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
